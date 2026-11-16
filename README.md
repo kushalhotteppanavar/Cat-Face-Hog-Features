@@ -253,6 +253,4 @@ This dataset is suitable for:
 
 This dataset is released for **academic and research use**. Please ensure compliance with the source image licenses before commercial use.
 
----
 
-*Made with ❤️ for feline biometrics research.*
